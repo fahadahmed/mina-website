@@ -1,5 +1,12 @@
 {
   "projects": {
     "default": "mina-cardinia"
+  },
+  "targets": {
+    "mina-cardinia": {
+      "hosting": {
+        "admin": "admin-mina-cardinia"
+      }
+    }
   }
 }
