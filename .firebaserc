@@ -5,7 +5,12 @@
   "targets": {
     "mina-cardinia": {
       "hosting": {
-        "admin": "admin-mina-cardinia"
+        "admin": [
+          "admin-mina-cardinia"
+        ],
+        "default": [
+          "mina-cardinia"
+        ]
       }
     }
   }
